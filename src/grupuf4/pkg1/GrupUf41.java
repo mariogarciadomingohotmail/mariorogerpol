@@ -4,7 +4,10 @@ public class GrupUf41 {
 
     public class PolMinanaRuiz {
         private void pol(){}
-        private void mario(){}
+        private void mario()
+        {
+            System.out.println("He editat el meu mètode sense conflictes");
+        }
         private void roger(){}
     }
     public class RogerReyesIso{
