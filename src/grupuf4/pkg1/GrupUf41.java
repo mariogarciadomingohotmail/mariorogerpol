@@ -4,4 +4,18 @@ public class GrupUf41 {
 
     }
     
+    public class RogerReyesIso{
+        
+        public void Pol(){
+            
+        }
+        
+        public void Mario(){
+            
+        }
+        
+        public void Roger(){
+            
+        }
+    }
 }
