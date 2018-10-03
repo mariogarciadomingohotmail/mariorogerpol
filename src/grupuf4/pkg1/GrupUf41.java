@@ -3,6 +3,23 @@ public class GrupUf41 {
     public static void main(String[] args) {
 
     }
+    
+    public class RogerReyesIso{
+        
+        public void Pol(){
+            
+        }
+        
+        public void Mario(){
+            
+        }
+        
+        public void Roger(){
+            
+        }
+    }
+}
+
     public class mario
     {
         public void pol(){}
