@@ -19,3 +19,12 @@ public class GrupUf41 {
         }
     }
 }
+
+    public class mario
+    {
+        public void pol(){}
+        public void mario(){}
+        public void roger(){}
+    }
+}
+
