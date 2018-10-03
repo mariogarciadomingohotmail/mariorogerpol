@@ -5,7 +5,7 @@ public class GrupUf41 {
     }
     public class mario
     {
-       
+        public void pol(){}
     }
 }
 
