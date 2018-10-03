@@ -8,7 +8,9 @@ public class GrupUf41 {
         {
             System.out.println("He editat el meu mètode sense conflictes");
         }
-        private void roger(){}
+        private void roger(){
+            System.out.println("Editada la meva part.");
+        }
     }
     public class RogerReyesIso{
         
